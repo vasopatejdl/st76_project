@@ -1,0 +1,14 @@
+-1200.0    # xmin
++1200.0    # xmax
+  200.0    # xstep
+-1200.0    # ymin
++1200.0    # ymax
+  200.0    # ystep
+   0.0     # zmax
+3          # nb. of layers
+300.0 10 # Layer 0
+600.0 15 # Layer 1
+600.0 15 # Layer 2
+1         # PMLs? 0: no, 1: yes >2: number of elements
+0 1       # PMLs on top? at the bottom? (0: no, 1: yes)
+1         # 8 or 27 control points for elements (1 or 2)
